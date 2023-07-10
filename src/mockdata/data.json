@@ -1,0 +1,44 @@
+{
+    "petrol": [
+        {
+            "id": 1,
+            "image": "https://media-cdn-v2.laodong.vn/storage/newsportal/2022/7/27/1073780/Bitcoin-23.jpg",
+            "coins": "15",
+            "description": "50% discount for every $100 top-up on your Shell Petrol Card"
+        },
+        {
+            "id": 2,
+            "image": "https://dntt.mediacdn.vn/197608888129458176/2023/5/20/bitcoin-205-1684547851971226859834.jpg",
+            "coins": "1000",
+            "description": "70% discount top-up on your Shell Petrol Card"
+        }
+    ],
+    "rentalRebate": [
+        {
+            "id": 1,
+            "image": "https://media-cdn-v2.laodong.vn/storage/newsportal/2022/7/27/1073780/Bitcoin-23.jpg",
+            "coins": "20",
+            "description": "Get $20 Rental rebate"
+        },
+        {
+            "id": 2,
+            "image": "https://dntt.mediacdn.vn/197608888129458176/2023/5/20/bitcoin-205-1684547851971226859834.jpg",
+            "coins": "15",
+            "description": "Get $500 Rental rebate"
+        }
+    ],
+    "foodAndBeverage": [
+        {
+            "id": 1,
+            "image": "https://media-cdn-v2.laodong.vn/storage/newsportal/2022/7/27/1073780/Bitcoin-23.jpg",
+            "coins": "25",
+            "description": "NTUC Fairprice $50 Voucher"
+        },
+        {
+            "id": 2,
+            "image": "https://dntt.mediacdn.vn/197608888129458176/2023/5/20/bitcoin-205-1684547851971226859834.jpg",
+            "coins": "5",
+            "description": "Free Cold Stone Sundae at any flavour!"
+        }
+    ]
+}
